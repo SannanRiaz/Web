@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header {
+    background-color:#696969;
+    color:brown;
+    text-align:left;
+    padding:8px;
+}
+
+#don {
+    background-color:#F0F0F0;
+    width:1150px;
+    height:60px;
+    color:blue;
+    float:left;
+    padding:10px;	 	 
+}
+
+#section {
+    background-color:#F0F0F0;
+    width:1315px;
+    height:360px;
+    float:left;
+    padding:10px;	 	 
+}
+
+#footer {
+    background-color:#696969;
+    color:blue;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>"Sahib Memorial Trust"</h1>
+</div>
+<img src="705f61.png" alt="Logo" style="width:1333px;height:350px">
+<div id="section">
+<h2>Donations</h2>
+<p>
+Zakat<br>
+Genral Donation<br>
+Endowment Fund<br>
+Bed Sponsorship<br>
+Medicines and Medical<br>
+Sponsor a Dialysis Patient<br>
+Sponsor a Child with burn injuries and Congenitally abnormality<br>
+<br>
+<br>
+<br>
+<br>
+<div id="don">
+<p>
+<a href="Enter Donate.html">"Click here to Donate"</a><br>
+</div>
+</p>
+</div>
+
+<div id="footer">
+Email:msr.sahib@gmail.com<br>
+Contact:+92342-5252454<br>
+Facebook.com/sahibmemorial
+</div>
+
+</body>
+</html>

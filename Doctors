@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#header {
+    background-color:#696969;
+    color:brown;
+    text-align:left;
+    padding:8px;
+}
+
+#doc {
+    background-color:#F0F0F0;
+    width:1313px;
+    height:1700px;
+    float:left;
+    padding:10px;
+}
+
+#foot {
+    background-color:#696969;
+    color:blue;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}	 
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>"Sahib Memorial Trust"</h1>
+</div>
+
+<div id="doc">
+<h2>Doctors</h2>
+<table style="width:100%">
+  <tr>
+    <td>Dr. Ahmad Aslam </td>
+    <td> MBBS, MS(G. Surgery), FCPS-I, FRCS(Glasg)</td>
+    <td>Dr.General Surgeon</td>
+    <td>SUNDAY  9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Awais Pervez</td>
+    <td> BDS, FDSRCPS</td>
+    <td> Dental Surgeon</td>
+    <td>MONDAY 9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Ashfaq Ahmad </td>
+    <td>MBBS,FCPS</td>
+    <td>Consultant Paediatrician.</td>
+    <td> Monday    9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Kamran Tahir </td>
+    <td> MBBS, MCPS, FCPS</td>
+    <td>Obstetrics & Gynaecology</td>
+    <td>Wednesday  3:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Muneeb Ul Rehman </td>
+    <td>MBBS, MS (Neurosurgery)</td>
+    <td>Neurosurgeon</td>
+    <td>SUNDAY   9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M.Masood </td>
+    <td> MBBS, MS(G. Surgery), FCPS-I, FRCS(Glasg)</td>
+    <td>Paeds Urologist</td>
+    <td>Saturday  4:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Mariam </td>
+    <td> BDS, FDSRCPS</td>
+    <td>Dental Surgeon</td>
+    <td>Wadesday  9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Sufyan Irshad </td>
+    <td> MBBS, M.D, FCPS, FRCS, FACS</td>
+    <td>Sleeping Bistrology</td>
+    <td>SUNDAY   11:00 p.m - 11:01 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Asad Ashfaq</td>
+    <td> MBBS,FRCS.</td>
+    <td>Plastic Surgeon</td>
+    <td>Monday  7:30 p.m - 10:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Arslan </td>
+    <td> MBBS, MRCS, FCPS)</td>
+    <td>Dr.General Surgeon</td>
+    <td>Thursday   9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Azeem </td>
+    <td> FRCS,FRCS (Tr & Ortho)</td>
+    <td>Consultant Orthpaedic Surgeon</td>
+    <td>SUNDAY   3:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Amad </td>
+    <td> F.R.C.S. ORL (UK)  ENT Consultant</td>
+    <td>E.N.T.</td>
+    <td>FRIDAY   3:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Wasal</td>
+    <td> MBBS, MD, FACC,</td>
+    <td>Consultant Clinical & Interventional Cardiologist</td>
+    <td>SATURDAY  7:30 P.m - 10:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Aqsa </td>
+    <td> MBBS, FCPS-I, FRCS, MMS</td>
+    <td>General/Vascular & Endovascular Surgeon</td>
+    <td>DAILY  9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Waqas </td>
+    <td> BS, BDS, FCPS</td>
+    <td>Oral & Maxillofacial Surgery</td>
+    <td>TUESDAY   9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Maheen </td>
+    <td> MBBS</td>
+    <td>Cardiology</td>
+    <td>FRIDAY  4:00 a.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Ahmad Aslam </td>
+    <td> MBBS, MS(G. Surgery), FCPS-I, FRCS(Glasg)</td>
+    <td>Dr.General Surgeon</td>
+    <td>SUNDAY  9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Awais Pervez</td>
+    <td> BDS, FDSRCPS</td>
+    <td> Dental Surgeon</td>
+    <td>MONDAY 9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Ashfaq Ahmad </td>
+    <td>MBBS,FCPS</td>
+    <td>Consultant Paediatrician.</td>
+    <td> Monday    9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Kamran Tahir </td>
+    <td> MBBS, MCPS, FCPS</td>
+    <td>Obstetrics & Gynaecology</td>
+    <td>Wednesday  3:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Muneeb Ul Rehman </td>
+    <td>MBBS, MS (Neurosurgery)</td>
+    <td>Neurosurgeon</td>
+    <td>SUNDAY   9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M.Masood </td>
+    <td> MBBS, MS(G. Surgery), FCPS-I, FRCS(Glasg)</td>
+    <td>Paeds Urologist</td>
+    <td>Saturday  4:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Mariam </td>
+    <td> BDS, FDSRCPS</td>
+    <td>Dental Surgeon</td>
+    <td>Wadesday  9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Sufyan Irshad </td>
+    <td> MBBS, M.D, FCPS, FRCS, FACS</td>
+    <td>Sleeping Bistrology</td>
+    <td>SUNDAY   11:00 p.m - 11:01 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Asad Ashfaq</td>
+    <td> MBBS,FRCS.</td>
+    <td>Plastic Surgeon</td>
+    <td>Monday  7:30 p.m - 10:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Arslan </td>
+    <td> MBBS, MRCS, FCPS)</td>
+    <td>Dr.General Surgeon</td>
+    <td>Thursday   9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Azeem </td>
+    <td> FRCS,FRCS (Tr & Ortho)</td>
+    <td>Consultant Orthpaedic Surgeon</td>
+    <td>SUNDAY   3:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Amad </td>
+    <td> F.R.C.S. ORL (UK)  ENT Consultant</td>
+    <td>E.N.T.</td>
+    <td>FRIDAY   3:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Wasal</td>
+    <td> MBBS, MD, FACC,</td>
+    <td>Consultant Clinical & Interventional Cardiologist</td>
+    <td>SATURDAY  7:30 P.m - 10:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Aqsa </td>
+    <td> MBBS, FCPS-I, FRCS, MMS</td>
+    <td>General/Vascular & Endovascular Surgeon</td>
+    <td>DAILY  9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Waqas </td>
+    <td> BS, BDS, FCPS</td>
+    <td>Oral & Maxillofacial Surgery</td>
+    <td>TUESDAY   9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Maheen </td>
+    <td> MBBS</td>
+    <td>Cardiology</td>
+    <td>FRIDAY  4:00 a.m - 7:00 p.m</td>
+  <tr>
+    <td>Dr. Ashfaq Ahmad </td>
+    <td>MBBS,FCPS</td>
+    <td>Consultant Paediatrician.</td>
+    <td> Monday    9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Kamran Tahir </td>
+    <td> MBBS, MCPS, FCPS</td>
+    <td>Obstetrics & Gynaecology</td>
+    <td>Wednesday  3:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Muneeb Ul Rehman </td>
+    <td>MBBS, MS (Neurosurgery)</td>
+    <td>Neurosurgeon</td>
+    <td>SUNDAY   9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M.Masood </td>
+    <td> MBBS, MS(G. Surgery), FCPS-I, FRCS(Glasg)</td>
+    <td>Paeds Urologist</td>
+    <td>Saturday  4:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Mariam </td>
+    <td> BDS, FDSRCPS</td>
+    <td>Dental Surgeon</td>
+    <td>Wadesday  9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Sufyan Irshad </td>
+    <td> MBBS, M.D, FCPS, FRCS, FACS</td>
+    <td>Sleeping Bistrology</td>
+    <td>SUNDAY   11:00 p.m - 11:01 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Asad Ashfaq</td>
+    <td> MBBS,FRCS.</td>
+    <td>Plastic Surgeon</td>
+    <td>Monday  7:30 p.m - 10:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Arslan </td>
+    <td> MBBS, MRCS, FCPS)</td>
+    <td>Dr.General Surgeon</td>
+    <td>Thursday   9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Azeem </td>
+    <td> FRCS,FRCS (Tr & Ortho)</td>
+    <td>Consultant Orthpaedic Surgeon</td>
+    <td>SUNDAY   3:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Amad </td>
+    <td> F.R.C.S. ORL (UK)  ENT Consultant</td>
+    <td>E.N.T.</td>
+    <td>FRIDAY   3:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Wasal</td>
+    <td> MBBS, MD, FACC,</td>
+    <td>Consultant Clinical & Interventional Cardiologist</td>
+    <td>SATURDAY  7:30 P.m - 10:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Aqsa </td>
+    <td> MBBS, FCPS-I, FRCS, MMS</td>
+    <td>General/Vascular & Endovascular Surgeon</td>
+    <td>DAILY  9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Waqas </td>
+    <td> BS, BDS, FCPS</td>
+    <td>Oral & Maxillofacial Surgery</td>
+    <td>TUESDAY   9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Maheen </td>
+    <td> MBBS</td>
+    <td>Cardiology</td>
+    <td>FRIDAY  4:00 a.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Ahmad Aslam </td>
+    <td> MBBS, MS(G. Surgery), FCPS-I, FRCS(Glasg)</td>
+    <td>Dr.General Surgeon</td>
+    <td>SUNDAY  9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Awais Pervez</td>
+    <td> BDS, FDSRCPS</td>
+    <td> Dental Surgeon</td>
+    <td>MONDAY 9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Ashfaq Ahmad </td>
+    <td>MBBS,FCPS</td>
+    <td>Consultant Paediatrician.</td>
+    <td> Monday    9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Kamran Tahir </td>
+    <td> MBBS, MCPS, FCPS</td>
+    <td>Obstetrics & Gynaecology</td>
+    <td>Wednesday  3:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Muneeb Ul Rehman </td>
+    <td>MBBS, MS (Neurosurgery)</td>
+    <td>Neurosurgeon</td>
+    <td>SUNDAY   9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M.Masood </td>
+    <td> MBBS, MS(G. Surgery), FCPS-I, FRCS(Glasg)</td>
+    <td>Paeds Urologist</td>
+    <td>Saturday  4:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Mariam </td>
+    <td> BDS, FDSRCPS</td>
+    <td>Dental Surgeon</td>
+    <td>Wadesday  9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Sufyan Irshad </td>
+    <td> MBBS, M.D, FCPS, FRCS, FACS</td>
+    <td>Sleeping Bistrology</td>
+    <td>SUNDAY   11:00 p.m - 11:01 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Asad Ashfaq</td>
+    <td> MBBS,FRCS.</td>
+    <td>Plastic Surgeon</td>
+    <td>Monday  7:30 p.m - 10:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Arslan </td>
+    <td> MBBS, MRCS, FCPS)</td>
+    <td>Dr.General Surgeon</td>
+    <td>Thursday   9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Azeem </td>
+    <td> FRCS,FRCS (Tr & Ortho)</td>
+    <td>Consultant Orthpaedic Surgeon</td>
+    <td>SUNDAY   3:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Amad </td>
+    <td> F.R.C.S. ORL (UK)  ENT Consultant</td>
+    <td>E.N.T.</td>
+    <td>FRIDAY   3:30 p.m - 7:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. Wasal</td>
+    <td> MBBS, MD, FACC,</td>
+    <td>Consultant Clinical & Interventional Cardiologist</td>
+    <td>SATURDAY  7:30 P.m - 10:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Aqsa </td>
+    <td> MBBS, FCPS-I, FRCS, MMS</td>
+    <td>General/Vascular & Endovascular Surgeon</td>
+    <td>DAILY  9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Waqas </td>
+    <td> BS, BDS, FCPS</td>
+    <td>Oral & Maxillofacial Surgery</td>
+    <td>TUESDAY   9:30 a.m - 2:00 p.m</td>
+  </tr>
+  <tr>
+    <td>Dr. M Maheen </td>
+    <td> MBBS</td>
+    <td>Cardiology</td>
+    <td>FRIDAY  4:00 a.m - 7:00 p.m</td>
+
+</table>
+</p>
+</div>
+
+<div id="foot">
+Email:msr.sahib@gmail.com<br>
+Contact:+92342-5252454<br>
+Facebook.com/sahibmemorial
+</div>
+
+</body>
+</html>

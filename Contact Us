@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header {
+    background-color:#696969;
+    color:brown;
+    text-align:left;
+    padding:8px;
+}
+#section {
+    background-color:#F0F0F0;
+    width:1313px;
+    height:490px;
+    float:left;
+    padding:10px;	 	 
+}
+
+#footer {
+    background-color:#696969;
+    color:blue;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>"Sahib Memorial Trust"</h1>
+</div>
+<div id="section">
+<h2>Contact Us</h2>
+<p>
+Phone:<br>
++923425252454<br>
++923131471110<br>
++923435566780<br></p>
+Email:<br>
+msr.sahib@gmail.com<br>
+</p>
+Follow us:<br>
+twitter.com/sahibmermorial<br>
+facebook.com/sahibmemorial<br>
+</p>
+Address:<br>
+Molechand Building,Blue Tomb,New Anarkali,Lahore 54000
+</p>
+
+</div>
+
+<div id="footer">
+Email:msr.sahib@gmail.com<br>
+Contact:+92342-5252454<br>
+Facebook.com/sahibmemorial
+</div>
+
+</body>
+</html>

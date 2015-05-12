@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header {
+    background-color:#696969;
+    color:brown;
+    padding:8px;
+}
+#section {
+    background-color:#F0F0F0;
+    width:1313px;
+    height:360px;
+    float:left;
+    padding:10px;	 	 
+}
+
+#footer {
+    background-color:#696969;
+    color:blue;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>"Sahib Memorial Trust"</h1>
+</div>
+<img src="url.jpg" alt="Logo" style="width:1333px;height:300px">
+<div id="section">
+<h2>Vision</h2>
+<p>
+Shalamar Hospital will distinguish itself as a leader in re-defining health care 
+delivery and will be recognized for its services and facilities in providing quality 
+and innovative care to the patients. It is our mission to serve the community by 
+providing quality patient care and services to all patients and their families.</p>
+ 
+<h3>Mission</h3>
+It is our mission to serve the community by providing quality patient care and services 
+to all patients and their families. We are committed to provide and continuously improve 
+our facilities and expertise to provide those services. We will improve community health 
+by providing an environment that is state-of-the-art, safe, efficient, cost effective, 
+team- oriented, respectful and compassionate.To accomplish our Mission, we focus on 
+three objectives:
+
+1)Recruit, value, develop, and celebrate an outstanding team of employees who possess 
+clinical skills and expertise, and above all, possess the core value of Caring for others
+
+2) Develop and maintain strong physician-patient partnerships centered on patient care, 
+open communications, and mutually accountable performance.
+
+3) Continuously review and serve the unique health care needs of the community.
+</p>
+</div>
+
+<div id="footer">
+Email:msr.sahib@gmail.com<br>
+Contact:+92342-5252454<br>
+Facebook.com/sahibmemorial
+</div>
+
+</body>
+</html>

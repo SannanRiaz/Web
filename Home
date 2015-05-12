@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header {
+    background-color:#696969;
+    color:brown;
+    float:center;
+    height:50px;
+    text-align:left;
+    padding:8px;
+}
+#nav {
+    line-height:30px;
+    color:blue;
+    background-color:#D3D3D3;
+    height:775px;
+    width:100px;
+    float:left;
+    padding:4px;	      
+}
+
+#section {
+    background-color:#F0F0F0;
+    width:1205px;
+    height:360px;
+    float:left;
+    padding:10px;	 	 
+}
+
+#footer {
+    background-color:#696969;
+    color:blue;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>"Sahib Memorial Trust"</h1>
+</div>
+<hd>
+<div id="nav">
+<a href="Home.html">Home</a><br>
+<a href="Doctors.html">Doctors</a><br>
+<a href="Services.html">Services</a><br>
+<a href="Departments.html">Departments</a><br>
+<a href="Pharmacy.html">Pharmacy</a><br>
+<a href="Donations.html">Donations<br>
+<a href="Vision and Mission.html">Vision and Mission</a><br>
+<a href="Contact Us.html">Contact Us</a><br>
+</div>
+<img src="hospital.jpg" alt="Logo" style="width:1225px;height:400px">
+<div id="section">
+<h2>Introduction</h2>
+<p>
+Businessmen Hospital Trust was conceived in 1974. The Trust initially comprised 
+of Chaudhry Nazar Mohammad, Mr. Naseem Saigol, Mr. Mumtaz A Sheikh and Syed Babar 
+Ali. The idea of building a Trust Hospital for the welfare of poor and 
+non-affording patients was floated by the then Chairman, Chaudhry Nazar 
+Mohammad (Late). To materialize this dream, they formed a group of eminent 
+businessmen who believed in social uplift, charity and philanthropic pursuits. 
+These included Mr. Mohammad Husain and Shahbaz-ud-Din Chaudhry. Other issues 
+including building infrastructure and hiring staff was handled by the rest of 
+the Trustees.</p>
+ 
+The location of the land at Anarkali Link Road made it possible for the hospital 
+to extend healthcare facilities not only to the patients of lower income population 
+of Northern Lahore but also to community living in its outskirts.</p>
+
+The team successfully generated Rs. 5 Million for the construction and 
+functioning/running expense of hospital. Hospital’s Architecture was designed 
+by experienced Australian Architects who gave this hospital a unique touch by 
+planning a combination of squares and rectangular style. The hospital structure 
+is designed in a way that it keeps the corridors airy and bright. This proper 
+but natural ventilation reduces odor.</p>
+
+Later Mr. Ibrar A. Mumtaz, Mr. Shahid Hussain, Chaudhry Ahmad Saeed, 
+Mr. Mohammad Munir Chaudhry and Mr. Altaf M. Saleem joined the Trust. Now the 
+Trust comprises of seven members and is working under the leadership of Chaudhry 
+Ahmad Saeed since April 1996. Their active support and cooperation has played an 
+instrumental role in bringing this institute at par with international standards 
+of tertiary care teaching hospital.
+</p>
+</div>
+
+<div id="footer">
+Email:msr.sahib@gmail.com<br>
+Contact:+92342-5252454<br>
+Facebook.com/sahibmemorial
+</div>
+
+</body>
+</html>

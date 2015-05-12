@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header {
+    background-color:#696969;
+    color:brown;
+    text-align:left;
+    padding:8px;
+}
+
+#section {
+    background-color:#F0F0F0;
+    width:1314px;
+    height:500px;
+    float:left;
+    padding:10px;	 	 
+}
+
+#footer {
+    background-color:#696969;
+    color:blue;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>"Sahib Memorial Trust"</h1>
+</div>
+<div id="section">
+<h2>Donations</h2>
+<p>
+HBL Account No.	#AC987456321<br>
+UBL Account No. @AC987456321<br>
+ABL Account No.	$AC987456321<br>
+MCB Account No.	%AC987456321<br>
+HMB Account No.	*AC987456321<br>
+</p>
+Account No. to Donate:<br>
+<input type="text">
+<br>
+Your Account No.:<br>
+<input type="text">
+<br>
+Payment for Donation:<br>
+<input type="text">
+<br>
+<br>
+<input type="submit">
+</div>
+
+<div id="footer">
+Email:msr.sahib@gmail.com<br>
+Contact:+92342-5252454<br>
+Facebook.com/sahibmemorial
+</div>
+
+</body>
+</html>

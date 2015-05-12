@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header {
+    background-color:#696969;
+    color:brown;
+    text-align:left;
+    padding:8px;
+}
+#nav {
+    line-height:30px;
+    color:blue;
+    background-color:#D3D3D3;
+    height:500px;
+    width:100px;
+    float:left;
+    padding:4px;	      
+}
+
+#section {
+    background-color:#F0F0F0;
+    width:1200px;
+    height:360px;
+    float:left;
+    padding:10px;	 	 
+}
+
+#footer {
+    background-color:#696969;
+    color:blue;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>"Sahib Memorial Trust"</h1>
+</div>
+<hd>
+<div id="nav">
+Home<br>
+Doctors<br>
+Services<br>
+Departments<br>
+Pharmacy<br>
+Donations<br>
+Vision and Mission<br>
+Contact Us<br>
+</div>
+<img src="UMT-Logo.JPG" alt="Logo" style="width:1220px;height:120px">
+<div id="section">
+<h2>Services</h2>
+Patient Welfare Services<br>
+24 Hours Emergency<br>
+Free Surgery Cleft Palate<br>
+Morning and Evening OPD<br>
+Private Clinincs<br>
+Laboratory<br>
+X-Ray<br>
+Ultrasound<br>
+CT Scan<br>
+Blood Bank<br>
+24 Hours Ambolences<br>
+Urology<br>
+Internal Medicine<br>
+</p>
+</div>
+
+<div id="footer">
+Email:msr.sahib@gmail.com<br>
+Contact:+92342-5252454<br>
+Facebook.com/sahibmemorial
+</div>
+
+</body>
+</html>
